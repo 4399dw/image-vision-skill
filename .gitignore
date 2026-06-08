@@ -1,0 +1,10 @@
+_temp/
+__pycache__/
+*.pyc
+.env
+*_compressed.jpg
+*_extracted_*
+_screenshot*
+vision_req.json
+_screen_req.json
+_real_*.json
