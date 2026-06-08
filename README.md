@@ -27,7 +27,7 @@ Image Vision gives Claude Code **superhuman eyes** — it can look at your scree
 
 ```bash
 # Clone into your Claude Code skills directory
-git clone https://github.com/<user>/image-vision-skill.git ~/.claude/skills/image-vision
+git clone https://github.com/4399dw/image-vision-skill.git ~/.claude/skills/image-vision
 ```
 
 Or manually:
